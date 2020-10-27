@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 1752,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-remoting-into-storsimple-8k-devices/master/Connect-StorSimple.ps1",
+    "DownloadCount": 937,
+    "Id": "Powershell-remoting-into-7fa1d1b2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 589,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-8-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will start a remote Powershell session to a StorSimple 8k series device. For more information onStorSimple Hybrid Cloud Storage see this link.\u00a0Requirements:The IP address of your device Data0 interface. The administrative password of your device. This can be viewe",
+    "Title": "Powershell remoting into StorSimple 8k devices",
+    "UpdatedDate": "2016-9-12T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-remoting-into-storsimple-8k-devices",
+    "UserTags": "Powershell, StorSimple"
+}
